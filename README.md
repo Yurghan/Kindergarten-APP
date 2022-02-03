@@ -7,7 +7,8 @@ Podpunkt niżej znajduje się instrukcja jak to zrobić.
 
 Zdjęcia poglądowe:
 
-Głowny widok na aplikację - trzy ikony obok każdego zadania:
+Głowny widok na aplikację. Kliknięcie nazwy zadania rozwija je umożliwiając przeczytanie dokładniejszego opisu.
+Obok każdego z zadań znajdują się 3 ikony:
 - edytuj zadanie (można zmienić tytuł oraz opis zadania)
 - usuń zadanie
 - zaznacz wykonanie zadania (lub odznacz)

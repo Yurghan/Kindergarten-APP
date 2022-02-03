@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Sprawdzenie obecności",
+      "details": "Obecność zapisać w systemie LiveKid",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Wyjść z dziećmi na spacer",
+      "details": "Miejsce docelowe - park na ul. Radosnej.",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Zaprowadzić dzieci do centrum językowego",
+      "details": "Zajęcia z języka angielskiego prowadzi w tym tygodniu Pani Kowalska",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Przygotować materiały edukacyjne na jutro",
+      "details": "Jutrzejsza edukacja będzie dotyczyć świata przyrody.",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Zadzwonić do mamy Janka Kowalskiego",
+      "details": "Janek bardzo dobrze radzi sobie ze sportem - warto o tym poinformować jego rodziców.",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}

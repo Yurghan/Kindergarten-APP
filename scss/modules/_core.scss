@@ -1,0 +1,49 @@
+@import 'variables';
+// Zmiana stylizacji corowych selektorów
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  cursor: pointer;
+}
+
+form {
+  background: $color-white;
+  padding: 20px;
+  border-radius: 10px;
+}
+label {
+  display: block;
+  color: $color-grey;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 20px 0 10px 0;
+}
+input {
+  padding: 10px;
+  border: 0;
+  border-bottom: 1px solid $color-lightGreey;
+  width: 100%;
+  box-sizing: border-box;
+}
+textarea {
+  border: 1px solid $color-lightGreey;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 100px;
+}
+form button {
+  display: block;
+  margin: 20px auto 0;
+  background: $color-green;
+  color: $color-white;
+  padding: 10px;
+  border: 0;
+  border-radius: 6px;
+  font-size: 16px;
+}

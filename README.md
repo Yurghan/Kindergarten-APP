@@ -45,7 +45,7 @@ jeśli nie działa to spróbuj tego:
 npx json-server --watch data/db.json
 ```
 
-4. Owórz kolejną zakładkę cmd i uruchom serwer 
+4. Otwórz kolejną zakładkę cmd i uruchom serwer 
 ```
 npm run serve
 ```

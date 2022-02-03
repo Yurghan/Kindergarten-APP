@@ -1,6 +1,11 @@
-# planner
+# Kindergarten APP
 
-## Project setup
+## Preview
+Na ten moment aby zobaczyć aplikację konieczne jest zaciągnięcie kodu z GitHuba i uruchomienie jej u siebie.
+Podpunkt niżej znajduje się instrukcja jak to zrobić.
+
+Zdjęcia podglądowe:
+
 ```
 npm install
 ```

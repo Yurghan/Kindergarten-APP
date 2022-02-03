@@ -7,10 +7,10 @@ Podpunkt niżej znajduje się instrukcja jak to zrobić.
 
 Zdjęcia poglądowe:
 
-Głowny widok na aplikację - trzy ikony obok każdego zadania (od lewej):
+Głowny widok na aplikację - trzy ikony obok każdego zadania:
 - edytuj zadanie (można zmienić tytuł oraz opis zadania)
 - usuń zadanie
-- zaznacz wykoanie zadania (lub odznacz)
+- zaznacz wykonanie zadania (lub odznacz)
 ![](extraImages/1.png)
 
 Możliwe jest sortowanie zadań: pokaż wszystkie, pokaż tylko zadania wykonane (z zielonym borderem), pokaż tylko zadania niewykonane (z czerwonym borderem).
@@ -25,7 +25,7 @@ Po przejściu z zakładki 'Organizer' do zakładki 'Dodaj zadanie' dostępny jes
 
 Przy instalacj zakładam, że masz zainstalowany globalnie node oraz vue.
 
-1. Otwórz VS Code, sklonuj to repozytorium poprzez wdpisanie w cmd:
+1. Otwórz VS Code, sklonuj to repozytorium poprzez wpisanie w cmd:
 ```
 git clone https://github.com/Yurghan/Kindergarten-APP.git
 ```
@@ -49,4 +49,5 @@ npx json-server --watch data/db.json
 npm run serve
 ```
 
-5. Gotowe ! -- ctrl + LPM na lokalny link, który pojawił się w cmd pozwala na korzystanie z aplikacji.
+5. Gotowe !
+Ctrl + LPM na lokalny link, który pojawił się w cmd pozwala na korzystanie z aplikacji.

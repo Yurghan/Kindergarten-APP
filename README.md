@@ -23,7 +23,7 @@ Po przejściu z zakładki 'Organizer' do zakładki 'Dodaj zadanie' dostępny jes
 
 ## Jak uruchomić projekt u siebie
 
-Przy instalacj zakładam, że masz zainstalowany globalnie node oraz vue.
+Przed rozpoczęciem wykonywania poniższej instrukcji konieczna jest globalna instalacja node oraz vue na komputrze.
 
 1. Otwórz VS Code, sklonuj to repozytorium poprzez wpisanie w cmd:
 ```

@@ -2,7 +2,7 @@
   "tasks": [
     {
       "title": "Sprawdzenie obecności",
-      "details": "Obecność zapisać w systemie LiveKid",
+      "details": "Obecność zapisać w systemie",
       "complete": true,
       "id": 1
     },
